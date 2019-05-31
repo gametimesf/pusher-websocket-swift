@@ -1,4 +1,4 @@
-github "krzyzanowskim/CryptoSwift"
-github "ashleymills/Reachability.swift"
+github "krzyzanowskim/CryptoSwift" == 0.15.0
+github "ashleymills/Reachability.swift" "v4.3.0"
 github "icanzilb/TaskQueue"
-github "daltoniam/Starscream"
+github "daltoniam/Starscream" == 3.0.6
